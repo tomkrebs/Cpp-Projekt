@@ -1,0 +1,19 @@
+Das Projekt hat immer mehr Spaß gemacht.
+Ich habe nach und nach erst Dinge begriffen, von denen ich dachte, dass
+ich sie schon längst verstanden hätte. Somit viel das Programmieren
+auch nach und nach leichter.
+Ich habe zwar schon vor langem angefangen,
+aber erst jetzt so richtig intensiv weiter daran gearbeitet und deshalb
+hat mir am Ende auch noch das letzte bisschen an Zeit gefehlt.
+Ich hätte gerne noch die eine oder andere Sache ausgearbeitet.
+Z.B. fehlen mir einige Tests, darüber bin ich mir im Klaren,
+allerdings weiß ich bei den meisten Funktionen nicht wirklich wie
+ich sie testen soll. Nichts desto trotz liegt auch das an der Zeit,
+sonst hätte ich die Tests gerne noch ergänzt.
+
+Edit (04.04.2019):
+Mir ist mittlerweile klar, wie wichtig Tests sind und, dass es keine
+gute Idee war damit zu warten bis ganz am Ende...
+
+
+MfG Tom Krebs.

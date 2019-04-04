@@ -1,0 +1,9 @@
+# (xy.solution)
+# x1,y1,x2,y2
+# Single bridge
+# Double bridge
+0,0,0,3
+0,0,0,3
+0,0,3,0
+0,0,3,0
+0,3,4,3
